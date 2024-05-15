@@ -1,0 +1,22 @@
+.radius{
+    border-radius: 7px;
+}
+.radius:hover{
+    color: white !important;
+    background-color: aqua;
+    transition: background 2s, color 1s;
+}
+.under_line:hover{
+    text-decoration: underline;
+}
+.xxx:hover{
+    background-color: #007bff !important;
+    color: white !important;
+    transition: all 0.8s;
+}
+.yyy:hover{
+    background-color: white !important;
+    color: #007bff !important;
+    transition: all 0.8s;
+
+}
